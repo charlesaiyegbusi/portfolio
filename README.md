@@ -10,9 +10,15 @@ This portfolio showcases my work across various projects, including interactive 
 Beyond my technical skills, I bring critical thinking, problem-solving expertise, and a dedication to leveraging data for innovation and measurable outcomes. Thank you for exploring my portfolio, and I look forward to collaborating on data-driven solutions that make a difference!
 
 ## Education
+Career Essentials in Data Analysis by Microsoft and LinkedIn (2024)
+Google Data Analytics Professional, Coursera (2023)
+PDG Education (2014)
+B. Sc. Humany Physiology/Pharmacology (2012)
 
 ## Stack
 - PowerBi
 - SQL
 - Python
 - Dune
+
+## Projects
